@@ -32,6 +32,10 @@ th {
   text-align: center;
 }
 
+.heading{
+  text-align: left;
+}
+
 tr:nth-child(even):hover{
   background-color: aquamarine;
 }
