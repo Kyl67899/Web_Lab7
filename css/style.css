@@ -25,8 +25,13 @@ th {
   border-radius: 100px;
 }
 
-.plnt__img:hover{
+.title{
+  background-color: white;
+}
+
+.title:hover{
   box-shadow: 10px 5px 4px red;
+  transition: box-shadow 4s ease;
 }
 
 .mass, 
