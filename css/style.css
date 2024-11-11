@@ -1,0 +1,30 @@
+td,
+th {
+  border: 1px solid;
+}
+
+/* planet image */
+.plnt__img{
+  padding: 15px;
+  border-radius: 100px;
+}
+
+.plnt__img:hover{
+  box-shadow: 10px 5px 4px green;
+}
+
+.mass, 
+.diameter,
+.sun,
+.numMoon{
+  word-break: break-all;
+  white-space: pre-line;
+}
+
+.text{
+
+}
+
+td:nth-child(even){
+  background-color: blue;
+}
